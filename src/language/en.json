@@ -1,0 +1,132 @@
+{
+    "header": {
+        "content": "Content",
+        "venue": "Venue",
+        "speakers": "Speakers",
+        "nft": "NFT",
+        "about": "About",
+        "sbt": "SBT",
+        "connect": "Connect Wallet",
+        "sponsor": "Sponsor",
+        "media":"Media"
+    },
+        
+    "nft": {
+        "available": "Available",
+        "price": "Price",
+        "asset": "Asset",
+        "free_mint": "Free Mint",
+        "freeMint": "Free Mint",
+        "minting": "Minting...",
+        "rule": "Rule",
+        "total_supply": "Total Supply",
+        "contract_address": "Contract Address",
+        "rule_content_1": "Total supply:Our POW NFT in time and your loving team ",
+        "rule_content_2": "ELIGIBILITY CRITERIA: ",
+        "rule_content_3": "",
+        "rule_content_4": "",
+        "rule_content_5": ""
+    },
+
+    "hero": {
+        "event": "",
+        "summer": "FIFA World Cup Official NFT ",
+        "dali": "NFT World Cup Festival ",
+        "time": "November 20 - December 18 2022",
+        "farm": "POWER WITH NFT",
+        "buy": "",
+        "calendar": " ",
+        "content1": " Quartar NFT contains 32 attributes, this NFT an unlimited collection of hosting 32 type of NFTs living in the core of the blockchain. Each individual NFT is carefully curated from over one trait , on behalf of the team .  ",
+        "content2": " Our vision is to create an amazing project that will shed light, joy, love, and creativity!  Burn on, World Cup 2022 We Yove You, Qatar! "
+    },
+    "content": {
+        "title": "Content",
+        "text_01": "The first massive Web3 event in China that owned, co-created and organized only by its members, without any centralized leadership. ",
+        "text_02": "Bring together Web3 & DAO communities for deep dialogues, connections and co-creation.",
+        "text_03": "Share ideas, exchange technical insights, explore the future of DAO, incentive mechanism, public goods and future societies. Find innovative ways to create better open source solutions, positive-sum outcomes and positive externalities. ",
+        "day1_text_01": "Crypto Trends, The History of Web3",
+        "day1_text_02": "DeFi, Tokenomics",
+        "day1_text_03": "NFT",
+        "day1_text_04": "Creator Economy, Art and Music",
+        "day2_text_01": "Public Goods/Radical Market",
+        "day2_text_02": "DAOs",
+        "day2_text_03": "Digital Nomads, Humanities",
+        "day2_text_04": "Data and Privacy, Ethereum 2.0",
+        "camp1_title": "Dali Community Camp",
+        "camp1_desc_1": "Showcase the culture and lifestyle of Dali,",
+        "camp1_desc_2": "which focuses on social issues and sustainable community development",
+        "camp2_title": "Theme Camp",
+        "camp2_desc_1": "15+ independent theme camps",
+        "camp2_desc_2": "theme camp designed by co-builders",
+        "camp3_title": "Art Camp",
+        "camp3_desc_1": "Dali local art, natural music performance,",
+        "camp3_desc_2": "commedia dell'arte and more",
+        "camp3_desc_3": "",
+        "camp4_title": "Sponsor Camp",
+        "camp4_desc_1": "Made of medium-sized tents and distributed to sponsors and their teams",
+        "camp4_desc_2": "as a venue for camping, team activities and meetup",
+        "camp5_title": "Co-creation Camp",
+        "camp5_desc_1": "Music camp: Musicians will be playing here",
+        "camp5_desc_2": "Have-fun camp: skateboards, shuttlecocks, frisbees, and poker",
+        "camp5_desc_3": "Culture experience camp: Dali special activities like flower cake making"
+    },
+    "about": {
+        "title": "About the Summer of WAMO ",
+        "small_title_1": "MANIFESTO",
+        "small_content_1": "DAOs are bringing like-minded folks together from all around the world. We’re bonding through internet protocol, open sourcesoftware, tokens, governance, chat groups and forum proposals—and it’s all driven by the Community.",
+        "small_content_2": "We are a community dedicated to the vision of an open internet of value. A fairer and richer world for all.",
+        "small_content_3": "We’re internet natives who believe in an open internet of value. Where communities drive our world forward through transparency.",
+
+        "small_content_4": " We are people first. It’s all about people. Bet on people, have faith, back others, believe in people. Everything we do is for the community and those around us.",
+        "small_content_5": "We value being action oriented. Move fast and be willing.",
+        "small_content_6": "We thrive in chaos. We are comfortable with being uncomfortable. We grow under pressure.",
+        "small_content_7": "We back ourselves. We believe in the work we are doing.",
+        "small_content_8": " We have fun. YOLO. We have a dancing chilli as a logo.",
+        "small_title_2": "OUR ETHOS",
+        "small_content_title_1": "Transparency:",
+        "small_content_title_2": "Open Source:",
+        "small_content_title_3": "Community:",
+        "small_content_title_4": "Opportunity:",
+        "small_content_contet_1": "We want to build a process that’s verifiable and accessible to all participants out in the open",
+        "small_content_contet_2": "We want to encourage member driven contributions so all involved stakeholders have input on key collective decisions, avoiding unilateral or misrepresentative outcomes that don’t build toward the goals of the event.",
+        "small_content_contet_3": "strengthen and foster relationships between participants building toward a common goal…",
+        "small_content_contet_4": "We want to source diverse people, ideas, and perspectives by building a  a collaborative environment that’s accessible and has low barriers to entry for anyone to learn and gain from the experience.",
+        "small_title_5": "Spirit of WAMO",
+        "small_content_contet_5": "WAMO, Our mascot:",
+        "small_title_3": "IDEAL ATTENDEE BREAKDOWN",
+        "small_title_4": "FAQ"
+
+    },
+    "venue": {
+        "title": "Venue",
+        "address": "DaLi Flowers for Lifetime Farm, 大理市银桥镇大丽线新邑村委会七社8号",
+        "since": " Since the pandemic, Web3 developer, enthusiasts and digital nomads have grown exponentially in Dali.To some extent, Dali has gradually become the Web3 center of China, especially for DAOs. ",
+        "speakers": "Speakers"
+    },
+
+    "footer": {
+        "detail": "All rights reserved @ React"
+    },
+    "home": {
+        "hot_recommended": "Hot Recommended",
+        "new_arrival": "New arrival",
+        "joint_venture": "Joint Venture"
+    },
+    "sponsors":{
+        "title": "Sponsors",
+        "title1": "WAGMI Sponsors",
+        "title2": "LFG Sponsors",
+        "title3": "Party Sponsor",
+        "title4": "Media",
+        "fq_title1": "Why Join Us",
+        "fq_title2": "Sponsorship",
+        "fq_title3": "Welcoming Party",
+        "fq_content_1_1": "",
+
+        "fq_content_3_1": "All speakers, sponsors and Tier 1&2  Mirror NFT holders will be invted to special welcoming party before the event.",
+        "fq_content_3_2": "More details",
+        "fq_content_3_3": "After crowdfunding with NFT on Mirror, you can join the Mirror backers group for tickets and related benefits by verifying with collab.land. Validation bot address：",
+        "fq_content_3_4": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxMzkwNjk2NDIz"
+
+    }
+}

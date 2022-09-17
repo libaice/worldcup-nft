@@ -1,0 +1,122 @@
+{
+    "header": {
+        "content": "内容",
+        "venue": "场地",
+        "speakers": "嘉宾",
+        "nft": "NFT",
+        "about": "关于",
+        "sbt": "SBT",
+        "connect": "连接钱包",
+        "sponsor": "赞助",
+        "media":"媒体"
+    },
+    
+    "nft": {
+        "available": "剩余数量",
+        "price": "价格",
+        "asset": "已拥有",
+        "free_mint": "可免费获得",
+        "freeMint": "Free Mint",
+        "minting": "Minting...",
+        "rule": "规则",
+        "total_supply": "总供应量",
+        "contract_address": "合约地址",
+        "rule_content_1": "总共 3706 只 精心设计的 WAMO NFT",
+        "rule_content_2": "满足以下任何条件的成员都可以获得 Free WAMO NFT 奖励：",
+        "rule_content_3": "参与大理Web3街会的建设",
+        "rule_content_4": "购买大理Web3街会的门票",
+        "rule_content_5": "赞助大理Web3街会"
+    },
+
+    "hero": {
+        "event": "活动",
+        "summer": "瓦猫之夏",
+        "dali": "大理 Web3 街(gāi)会",
+        "time": "2022年 8月19日- 20日",
+        "farm": "@大理花伴一生玫瑰庄园",
+        "buy": "购票",
+        "calendar": "添加到日历",
+        "content1": "信任、共识和热情，在这个夏天集聚起来迸发出巨大的能量怀抱着对技术的热枕、对 DAO 的治理与自组织精神的探索、 对公共物品的思考和对社区与Web3 未来的畅想。",
+        "content2": "我们将在 8月19日-20日，在大理举办大理 Web3 街(gāi)会: 瓦猫之夏|Dali Web3 Fest"
+    },
+    "content": {
+        "title": "内容",
+        "text_01": "一次自由浪漫的自组织大会 多元，丰富，热情，一个小型的火人节",
+        "text_02": "一次Web3世界的社交大会 找到同行者，深度对话，相互联系和共同创造",
+        "text_03": "思想的碰撞，深度的技术交流 DAO、激励机制和未来社会的讨论 探索开源、共益、正外部性，对未来的可能性展开畅想",
+        "day1_text_01": "加密思潮，Web3发展史",
+        "day1_text_02": "加密经济学",
+        "day1_text_03": "NFT",
+        "day1_text_04": "创作者经济，艺术和音乐",
+        "day2_text_01": "公共物品/激进市场",
+        "day2_text_02": "DAO",
+        "day2_text_03": "数字游民，人文",
+        "day2_text_04": "数据和隐私，以太坊2.0",
+        "camp1_title": "大理文化&社区BUILD营地",
+        "camp1_desc_1": "展示大理社区文化、可持续生活",
+        "camp1_desc_2": "关注社会议题与社区发展的生活方式",
+        "camp2_title": "WAGMI 主题营地",
+        "camp2_desc_1": "主题营地区将是这次大会最重要，也是最开放、最浪漫的场域。这里既是我们共同创造的世界，也是构筑彼此链接的场所。营地和活动都具备非凡的公共性，在这次大会中，我们将确保共创的成果和共创精神属于每一个人。",
+        "camp2_desc_2": "在这里，每个主体营地都将由本次大会的建设者和参与者共同设计和建造而成。",
+        "camp3_title": "自然音乐艺术 DEGEN 部落",
+        "camp3_desc_1": "音乐艺术营地",
+        "camp3_desc_2": "大理在地艺术",
+        "camp3_desc_3": "自然音乐演奏",
+        "camp3_desc_4": "即兴喜剧、冥想体验等",
+        "camp4_title": "SPONSOR营地",
+        "camp4_desc_1": "由中型帐篷搭建而成，发放给 sponsor 及其团队",
+        "camp4_desc_2": "作为露营、团建和 meetup 的场地使用",
+        "camp5_title": "IRL 街会集市",
+        "camp5_desc_1": "还有音乐人演奏的音乐营地，",
+        "camp5_desc_2": "提供滑板、毽子、飞盘、德扑的嗨玩营地，",
+        "camp5_desc_3": "提供鲜花饼制作等大理特色活动的文化体验营地"
+    },
+    "about": {
+        "title": "关于 瓦猫之夏",
+        "small_title_1": "宣言",
+        "small_content_1": "我们将在此次大理 Web3 街(gāi)会「瓦猫之夏」搭建出赋能、开放和协作的空间，将顶尖的技术人才、创业者、孵化器和项目方团队以及 DAO 的践行者聚集在一起，彼此深度对话、相互联系和共同创造。我们希望你可以在这里找到同行者，将会场变成共同前进的起点，促进跨社区交流，打破社区 / 团队间的边界，让技术灵感和对未来可能性的想象自由翱翔。同时，我们也会将大理社区的轻松氛围与 Web3 文化展示给所有的与会者。",
+        "small_content_2": "大理 Web3 街(gāi)会「瓦猫之夏」也将是一次所有参与者的社交大会，一次自由浪漫的自组织大会。这里既有大理社区与 Web3 文化的展示，也将涌现广泛的讨论、会议、工作坊、市集、演出、炉边谈话、派对及多种营地活动。",
+        "small_content_3": "这不仅仅是大理的第一次Web3大会，更将是一次自组织精神下的协作、互信和共创的实验与探索。本次大会由一群去中心化的、DAO 的参与者组成，这让我们与之前在中国举办的任何大会都截然不同。",
+
+        "small_title_2": "瓦猫精神",
+        "small_content_4": "我们创建了 瓦猫（Wamo）——大理Web3的吉祥物。它基于一个大理神话生物——瓦猫，一个非常强大的守护神。 它代表了积极的外部性、理性的体现、共识、开源和乐观的精神。",
+        "small_content_5": " WAMO代表了正外部性（positive externalities）的精神， 祝福我们可以在走向我们的目标的同时也让这个世界变得更好。",
+        "small_content_6": "我们希望 WAMO 将通过将我们的激励措施与彼此的福祉相结合、促进共同创造、更好的协调和正和结果来帮助人类成长。",
+        "small_title_3": "理想的与会者细分",
+        "small_title_4": "FAQ"
+
+
+
+    },
+    "venue": {
+        "title": "场地",
+        "address": "花伴一生玫瑰庄园，大理市银桥镇大丽线新邑村委会七社8号",
+        "since": "Since the pandemic, Web3 developer, enthusiasts and digital nomads have grown exponentially in Dali. To some extent, Dali has gradually become the Web3 center of China, especially for DAOs.",
+        "speakers": "嘉宾"
+    },
+    "footer": {
+        "detail": "All rights reserved @ React"
+    },
+    "home": {
+        "hot_recommended": "Hot Recommended",
+        "new_arrival": "New arrival",
+        "joint_venture": "Joint Venture"
+    },
+    "sponsors":{
+        "title": "赞助",
+        "title1": "WAGMI赞助商",
+        "title2": "LFG赞助商",
+        "title3": "PARTY赞助商",
+        "title4": "媒体支持",
+        "fq_title1": "为什么要成为赞助商",
+        "fq_title2": "赞助方式",
+        "fq_title3": " 欢迎派对",
+
+        "fq_content_3_1": "所有演讲者、赞助商和Tier 1&2 Mirror NFT持有人将被邀请参加活动前的特别欢迎排队。",
+        "fq_content_3_2": "查看更多细节",
+        "fq_content_3_3": "在Mirror上参与众筹获得NFT后，可以通过collab.land验证加入Mirror众筹群，获取门票和相关权益。验证地址：",
+        "fq_content_3_4": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxMzkwNjk2NDIz"
+
+
+    }
+}
