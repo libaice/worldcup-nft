@@ -1,2 +1,2 @@
-# ![](/src/assets/wamo.svg) World Cup NFT Interface
+# ![]() World Cup NFT Interface
 

@@ -175,7 +175,7 @@ function Footer() {
                 className="ml-8"
                 onClick={() =>
                   openSocial(
-                    'https://discord.com/'
+                    'https://discord.gg/Rx6uyNqcVw'
                   )
                 }
               />
