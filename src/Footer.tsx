@@ -103,7 +103,7 @@ function Footer() {
                 src="/twitter.png"
                 alt="@dali_web3"
                 className="ml-8"
-                onClick={() => openSocial('https://twitter.com/dali_web3')}
+                onClick={() => openSocial('https://twitter.com/WorldCupM_NFT')}
               />
               <img
                 src="/github.png"
@@ -161,7 +161,7 @@ function Footer() {
                 src="/twitter.png"
                 alt="@dali_web3"
                 className="ml-8"
-                onClick={() => openSocial('https://twitter.com/')}
+                onClick={() => openSocial('https://twitter.com/WorldCupM_NFT')}
               />
               <img
                 src="/github.png"
